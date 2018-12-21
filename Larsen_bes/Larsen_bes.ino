@@ -2,7 +2,15 @@
  *  Based on a number of sources on the internet, none
  *  of which provided the exact function I was looking 
  *  for.
- *  
+ *
+ *  It is broken and needs a little work. Perhaps using the
+ *  interrupt button to toggle states?
+ *
+ *  Supposedly I should be avoiding delay and using millis.
+ *  The real solution would be to go through some tutorials 
+ *  so I know what I'm doing. I suspect I'm conceptualizing
+ *  this incorrectly.
+ *
  *  2018-11-18
  *  Scott Murphy
  */
