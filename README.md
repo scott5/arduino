@@ -14,8 +14,8 @@ a Cylon scanner. If you search, you can find some exampes of how to use it with
 a more sophisticated Larson scanner.
 
 
-Blink_bes - Just a sketch to blink the onboard LED
-Larson_bes - The Cylon scanner
-barGraph_bes - A bar graph controlled with a pot
-interrupt_intro - using the interrupt to trigger events
+* Blink_bes - Just a sketch to blink the onboard LED
+* Larson_bes - The Cylon scanner
+* barGraph_bes - A bar graph controlled with a pot
+* interrupt_intro - using the interrupt to trigger events
 
