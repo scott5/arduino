@@ -1,12 +1,6 @@
 #include "pitches.h"
  
 // notes in the melody:
-// int melody[] = {
-//  NOTE_C4, NOTE_G3,NOTE_G3, NOTE_GS3, NOTE_G3,0, NOTE_B3, NOTE_C4};
-// 
-// note durations: 4 = quarter note, 8 = eighth note, etc.:
-//int noteDurations[] = {
-//  4, 8, 8, 4,4,4,4,4 };
 
 // ABD notation
 // X: 2
@@ -19,7 +13,6 @@
 // G2G2F2F2|E2E2D4|G2G2F2F2|E2E2D4|
 // C2C2G2G2|A2A2G4|F2F2E2E2|D2D2C4:|
 //
-// trying a new one
 
 int melody[] = {
   NOTE_C4,NOTE_C4,NOTE_G4,NOTE_G4,NOTE_A4,NOTE_A4,NOTE_G4,

@@ -47,7 +47,8 @@ Which produces sheet music or can be played by ABC aware software.
 The music shows that the length is eigth notes, so the first note is a C that
 is a quarter note (duration of 2 eigth notes). This maps well into the sketch.
 
-Look at twinkle to see the code.
+Look at twinkle to see the code. The basics came from the
+tone-output-using-an-arduino page below with a few modifications.
 
 ## Some links to view
 
