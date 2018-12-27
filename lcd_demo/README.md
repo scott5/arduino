@@ -27,6 +27,10 @@ So from my own observations after messing with it for a while:
 * We can use setCursor to go to places on the screen
 * This is best for displaying data that can be at fixed locations
 
+## Wiring Diagram for LCD module
+
+![2004A 20x4 LCD Module](./wiring.png)
+
 Maybe good for a date-time-temp-humidity display? Four lines is a bit of a
 waste. We could draw a border to make it nicer, but if we did something like
 this...
@@ -41,4 +45,6 @@ you wanted to really do something with it, you would need a function to read
 something like a DHT-22 and a RTC module so that you could track and timestamp
 your readings.
 
+## Sample Output
  
+![Sample Output](./output.jpg)
