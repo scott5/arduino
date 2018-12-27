@@ -18,7 +18,7 @@ https://bitbucket.org/fmalpartida/new-liquidcrystal/downloads/
 To use it for the first time in a sketch, use the menus like this:
 [sketch] -> [include library] -> [add .ZIP library] and select the downloaded
 zip file you will get a bunch of #include lines. Delete all but the two used in
-this sketch. Future use is similar, but use the newliquidcrystal library listed
+this sketch. Future use is similar, but use the *newliquidcrystal_1.3.5* library listed
 in [contributed libraries] instead of [add .ZIP library].
 
 So from my own observations after messing with it for a while:
